@@ -22,4 +22,4 @@ Unity, version 2021.x
 Kumar Vaibhav
 
 ## Gameplay Walkthrough 
-_Coming Soon..._
+[Video](https://youtu.be/NWcjxXg66ZA)
